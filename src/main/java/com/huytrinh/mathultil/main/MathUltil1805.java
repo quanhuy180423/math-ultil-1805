@@ -10,6 +10,12 @@ import javax.swing.JOptionPane;
  * @author ADMIN
  */
 public class MathUltil1805 {
+    
+    //this method is written in local
+    public static void SayHiFormLocal(){
+        
+    }
+    
         public static void main(String[] args) {
             //cách kiểm thử số 2  - giống  cách 1
             //test case 1: check 0! = 1
