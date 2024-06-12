@@ -29,8 +29,8 @@ public class MathUltil1805 {
         public static void main(String[] args) {
             //cách kiểm thử số 2  - giống  cách 1
             //test case 1: check 0! = 1
-            int n = 0;
-            long expectedResult = 1;//0!=1
+            int n = 5;
+            long expectedResult = 120;//0!=1
             long actualResult = MathUtility.getFactorial(n);
             String mess = "0! |Expected: " + expectedResult +
                                 " Actual: " + actualResult;
