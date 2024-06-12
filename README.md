@@ -6,8 +6,10 @@
 
 * A Java Project (using Maven) to demonstraye a Math library as in JDK
 * A Unit Test script using Junit Test framework, and TDD, DDT technique
-* A CI script to demonstrate the Continous Integration using Github Actions
+* A CI script to demonstrate the Continous Integration using Github Actions with Maven
+* a demonstration on hơ to produce comfiction and hơ to merge the code within a team work
 * and more ...
+  
 
 ## Screenshorts
 ![Srource code and test script](https://github.com/quanhuy180423/math-ultil-1805/blob/main/screenshorts/SourceCodeAndUnitTest.png)
