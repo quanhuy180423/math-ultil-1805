@@ -10,12 +10,22 @@ import javax.swing.JOptionPane;
  * @author ADMIN
  */
 public class MathUltil1805 {
+
     
     //this method is written in local
     public static void SayHiFormLocal(){
-        
+        System.out.println("HELLO");
     }
     
+
+    //this method is written directly in server to simulate
+        //the work of anthoer team member, he uploads code before me
+    public static void SayHiFormServer(){
+        System.out.println("Hello");
+    }
+        
+        
+
         public static void main(String[] args) {
             //cách kiểm thử số 2  - giống  cách 1
             //test case 1: check 0! = 1
